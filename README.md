@@ -1,4 +1,4 @@
-# PHP ders notlarıjmız
+# PHP ders notlarımız
 
 Plaka|İl|Bölge
 ---|---|---
